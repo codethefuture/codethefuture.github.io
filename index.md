@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: CODE THE FUTURE
+tagline: 〜未来をデザインせよ〜
 ---
 {% include JB/setup %}
 
