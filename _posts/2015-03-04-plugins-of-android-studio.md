@@ -12,3 +12,6 @@ tags: [Android]
 - Android ButterKnife Zelezny
 - IdeaVim
 - Genymotion
+- dagger-intellij-plugin
+	- https://github.com/square/dagger-intellij-plugin
+- ADB Idea
